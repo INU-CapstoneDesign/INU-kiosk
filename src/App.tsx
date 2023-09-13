@@ -12,5 +12,4 @@ export default function App() {
 		<Styleddiv>
 			<KioskMenu />
 		</Styleddiv>
-	);
 }
