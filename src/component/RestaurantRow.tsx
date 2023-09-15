@@ -22,3 +22,5 @@ export default function RestaurantRow({restaurant}: RestaurantRowProps) {
 		</div>
 	);
 }
+
+
