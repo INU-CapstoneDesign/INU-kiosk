@@ -1,5 +1,13 @@
 # 온보딩 저장소 - FE
 
+## 결과
+
+<img width="364" alt="스크린샷 2024-11-18 오전 11 20 50" src="https://github.com/user-attachments/assets/eaf0449b-65c2-4a91-b5d5-7b1af2ea6518">
+<img width="1417" alt="스크린샷 2024-11-18 오전 11 21 08" src="https://github.com/user-attachments/assets/a4bef363-514d-4b1f-8ade-e2bb22901a21">
+
+
+## 명세서 
+
 - 인트로 페이지 -  [`http://localhost/8080/`](http://localhost/8080/)
     - [매장 주문] 또는 [전체 포장] 버튼을 누르면 주문 페이지로 이동할 수 있다.
 - 주문 페이지 -  [`http://localhost/8080/order`](http://localhost/8080/order)
